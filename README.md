@@ -2,6 +2,8 @@
 # iOS Developer Career Path
 
 iOS App Development Training from [Codecademy Pro](https://www.codecademy.com/learn/paths/ios-developer). 
+<p align="center">
+<img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/introduction.gif" width=80% height=80%>
 
 ## Authors
 
