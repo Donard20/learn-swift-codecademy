@@ -12,9 +12,9 @@ iOS App Development Training from [Codecademy Pro](https://www.codecademy.com/le
 ---
 
 - ## 🔥 Aim in this Training
-  -  Build and publish a mobile application for iOS devices
-  -  Advance their knowledge of Swift programming
-  -  Land a job as an iOS Developer
+  -  📱  Build and publish a mobile application for iOS devices
+  -  📚 Learn the basic to advance skill of Swift programming
+  -  ✨ Land a job as an iOS Developer
   
 ---
 
