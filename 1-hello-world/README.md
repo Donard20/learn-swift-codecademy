@@ -5,13 +5,36 @@
 <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/1-hello.png" width=50% height=50%>
 
 ## 📖 Table Of Contents
+* 🚀 [Aim for this lesson](#solutions)
 * 🔥 [Learned from this lesson](#aim)
+* 🛠️ [Lessons]
 <!-- * 🛠️ [Problem ](#problem-statement)
 * 🚀 [Solutions](#solutions) -->
 
 ---
+ ## 🚀 Aim:
 
-## 🔥 Learned from this lesson
+- [x] Learning the basic concepts and fundamentals of Swift.
+- [x] Swift is a powerful and intuitive general-purpose programming language developed by Apple. Its development started in July 2010.
+- [x] create applications for:
+  -    📱 iOS
+  -    ⌚ watchOS
+  -    🖥️ macOS
+  -    📺 tvOS
+  -    🐧 Linux
+ 
+---
+ ## 🛠️ Lessons:
+
+- [x] [Hello.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/1-hello-world/Hello.swift)
+- [x] [Letter.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/1-hello-world/Letter.swift)
+- [x] [Pattern.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/1-hello-world/Pattern.swift)
+- [x] [Codecademy.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/1-hello-world/Codecademy.swift)
+- [x] [Block-Letters](https://github.com/Donard20/learn-swift-codecademy/tree/main/1-hello-world/Block-Letters)
+ 
+---
+ 
+## 🔥 Learned:
 
 - [x] Swift is a general-purpose coding language.
 - [x] The code is read from top to bottom.
