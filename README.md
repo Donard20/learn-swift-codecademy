@@ -17,6 +17,12 @@ iOS App Development Training from [Codecademy Pro](https://www.codecademy.com/le
   -  ✨ Land a job as an iOS Developer
   
 ---
+  
+  ### Skill Paths ###
+
+> iOS, Mobile Development, Swift, Firebase, SwiftUI, Xcode, Interview Prep, Backend Development, Git, Algorithms, Data Structures, and more...
+  
+---
 
 ## Course Link ##
 
@@ -110,6 +116,4 @@ https://www.codecademy.com/learn/learn-swift
 
 ---
 
-### Skill Paths ###
 
-iOS, Mobile Development, Swift, Firebase, SwiftUI, Xcode, Interview Prep, Backend Development, Git, Algorithms, Data Structures, and more...
