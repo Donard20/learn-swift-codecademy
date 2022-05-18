@@ -6,8 +6,8 @@
 
 ## 📖 Table Of Contents
 * 🚀 [Aim for this lesson](#solutions)
+* 🛠️ [Lessons](#lesson)
 * 🔥 [Learned from this lesson](#aim)
-* 🛠️ [Lessons]
 <!-- * 🛠️ [Problem ](#problem-statement)
 * 🚀 [Solutions](#solutions) -->
 
