@@ -13,26 +13,30 @@
 ---
  ## 🚀 Aim:
 
-> Declare a Variable
+Declare a Variable
 Suppose we are building a game, and we want to keep track of the player’s name, the player’s score that goes from 0 to 10, the player’s level, etc. 
   We need some variables!
+ 
 ---
+
+
  ## 🛠️ Lessons:
 
-<!-- - [x] [Hello.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/1-hello-world/Hello.swift) -->
-
+- [x] [Variable.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Variable.swift)
+- [x] [Arithmetic.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Arithmetic.swift)
+- [x] [Apples.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Apples.swift)
+- [x] [Type.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Type.swift)
+- [x] [String.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/String.swift)
+- [x] [Constant.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Constant.swift)
  
 ---
  
-## 🔥 Learned:
+<!-- ## 🔥 Learned:
 
-<!-- - [x] Swift is a general-purpose coding language.
+- [x] Swift is a general-purpose coding language.
 - [x] The code is read from top to bottom.
 - [x] Single line comments are created using //.
-- [x] Multiline comments are created using /* */. -->
- 
+- [x] Multiline comments are created using /* */.
+  -->
 
-
-  
-  
 
