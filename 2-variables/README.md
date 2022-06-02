@@ -28,15 +28,24 @@ Suppose we are building a game, and we want to keep track of the player’s name
 - [x] [Type.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Type.swift)
 - [x] [String.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/String.swift)
 - [x] [Constant.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Constant.swift)
+- [x] [Challenge_Temperature.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Challenge_Temperature.swift)
  
 ---
  
-<!-- ## 🔥 Learned:
+## 🔥 Learned:
 
-- [x] Swift is a general-purpose coding language.
-- [x] The code is read from top to bottom.
-- [x] Single line comments are created using //.
-- [x] Multiline comments are created using /* */.
-  -->
+Here is a review of the lesson:
+
+- [x] A variable represents a particular piece of your computer’s memory that has been set aside for you to use to store, retrieve, and manipulate data.
+- [x] Variables are declared using the var keyword.
+- [x] Constants are declared using the let keyword.
+- [x] Swift basic data types include:
+   - [x] Int: integers
+   - [x] Double: floating-point numbers
+   - [x] String: a sequence of characters
+   - [x] Bool: true/false
+- [x] Single equals sign = indicates assignment.
+- [x] Arithmetic operators include +, -, *, /, %.
+- [x] Compound assignment operators include +=, -=, *=, /=, %=.
 
 
