@@ -28,6 +28,7 @@ Suppose we are building a game, and we want to keep track of the player’s name
 - [x] [Type.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Type.swift)
 - [x] [String.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/String.swift)
 - [x] [Constant.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Constant.swift)
+- [x] [Challenge_Temperature.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Challenge_Temperature.swift)
  
 ---
  
