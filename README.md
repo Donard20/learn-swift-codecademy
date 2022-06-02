@@ -15,8 +15,27 @@ iOS App Development Training from [Codecademy Pro](https://www.codecademy.com/le
   -  📱  Build and publish a mobile application for iOS devices
   -  📚 Learn the basic to advance skill of Swift programming
   -  ✨ Land a job as an iOS Developer
-  
+    
 ---
+
+ 
+- ## 🔥 Will be learning in this Journey:
+
+- Use Swift and SwiftUI to build iOS applications
+- Build a wireframe for a project
+- Use the MVVM design pattern to architect your applications
+- Use the command line
+- Manage versions of your code with Git
+- Collaborate with teammates on GitHub
+- Use lists and forms to add interactivity
+- Save and load data locally to your phone
+- Use external APIs to fetch data
+- Store and retrieve information from Firebase
+- Authenticate users
+- Publish an app to the App Store
+- Use data structures and algorithms to answer interview questions
+  
+ ---
   
   ### Skill Paths ###
 
@@ -114,21 +133,4 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 9. Classes ##
 
----
 
- 
-<!-- ## 🔥 will be learning:
-
-- Use Swift and SwiftUI to build iOS applications
-- Build a wireframe for a project
-- Use the MVVM design pattern to architect your applications
-- Use the command line
-- Manage versions of your code with Git
-- Collaborate with teammates on GitHub
-- Use lists and forms to add interactivity
-- Save and load data locally to your phone
-- Use external APIs to fetch data
-- Store and retrieve information from Firebase
-- Authenticate users
-- Publish an app to the App Store
-- Use data structures and algorithms to answer interview questions
