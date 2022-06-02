@@ -19,7 +19,7 @@ iOS App Development Training from [Codecademy Pro](https://www.codecademy.com/le
 ---
 
  
-- ## 🔥 Will be learning in this Journey:
+- ## 🔥 What I will learn after this Journey:
 
 - Use Swift and SwiftUI to build iOS applications
 - Build a wireframe for a project
