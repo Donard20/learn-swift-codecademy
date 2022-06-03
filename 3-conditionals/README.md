@@ -23,22 +23,29 @@ Conditionals are powerful programming tools that introduce flexibility and compl
 
  ## 🛠️ Lessons:
 
-<!-- - [x] [Variable.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Variable.swift)
-- [x] [Arithmetic.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Arithmetic.swift)
-- [x] [Apples.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Apples.swift)
-- [x] [Type.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Type.swift)
-- [x] [String.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/String.swift)
-- [x] [Constant.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Constant.swift) -->
+- [x] [Languages.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Languages.swift)
+- [x] [Numbers.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Numbers.swift)
+- [x] [Planets.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Planets.swift)
+- [x] [Sailing.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Sailing.swift)
+- [x] [StarWarsVillains.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/StarWarsVillains.swift)
+- [x] [Superheroes.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Superheroes.swift)
+- [x] [SwiftJam.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/SwiftJam.swift)
+- [x] [learnToCode.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/learnToCode.swift)
+- [x] [wearGlasses.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/wearGlasses.swift)
 
  
 ---
  
  ## 👨‍💻 Challenges and Exercises
-<!--  
- - [x] [Challenge_Temperature.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Challenge_Temperature.swift)
- - [x] [Exercise_BMI.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Exercise_BMI.swift)
- - [x] [Exercise_Quadratic Formula.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Exercise_Quadratic%20Formula.swift) -->
  
+ In this project, I'll be using conditional skills by creating a program that can answer any “Yes” or “No” question with a different fortune each time.
+ 
+  <p align="center">
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Magic_8_Ball_Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   
+   <p align="center">
+     <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" width=40% height=40%>
+
  ---
  
 ## 🔥 Learned:
