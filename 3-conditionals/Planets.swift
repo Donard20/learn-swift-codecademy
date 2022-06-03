@@ -1,3 +1,4 @@
+// Switch Statement: Compound Cases
 var planet = "Earth" 
 
 // Write your code below 🪐
