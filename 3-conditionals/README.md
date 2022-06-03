@@ -43,18 +43,15 @@ Conditionals are powerful programming tools that introduce flexibility and compl
  
 ## 🔥 Learned:
 
-Here is a review of the lesson:
+<!-- Here is a review of the lesson: -->
 
-<!-- - [x] A variable represents a particular piece of your computer’s memory that has been set aside for you to use to store, retrieve, and manipulate data.
-- [x] Variables are declared using the var keyword.
-- [x] Constants are declared using the let keyword.
-- [x] Swift basic data types include:
-   - [x] Int: integers
-   - [x] Double: floating-point numbers
-   - [x] String: a sequence of characters
-   - [x] Bool: true/false
-- [x] Single equals sign = indicates assignment.
-- [x] Arithmetic operators include +, -, *, /, %.
-- [x] Compound assignment operators include +=, -=, *=, /=, %=.
- -->
+- [x] An if statement consists of a condition and code block that executes when the condition is true.
+- [x] An else statement is immediately followed by a code block that executes when all previous conditions were false.
+- [x] A code block is denoted by a set of curly braces {}.
+- [x] Multiple else if statements can be chained within an if/else to provide additional conditions.
+- [x] Comparison operators include <, >, <=, >=, ==, and != and are used to compare the values of two operands.
+- [x] A switch statement looks for the value of a case that matches the value of an expression.
+- [x] A switch statement can have cases that contain multiple items known as compound cases.
+- [x] A switch statement’s case can include a range of values using the closed range operator (...).
+
 
