@@ -9,40 +9,52 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .fontWeight(.bold)
-            .foregroundColor(.blue)
-
-//        differentiate padding and border
-          Text("I'm happy!")
+        
+//        Button Views
+//        Button (action:{
+//            // some action here
+//        }, label: {
+//            // some views here
+//
+//        })
+        
+//        creating vstack with button
+        VStack  {
+            Text("Welcome to sQuiz Time")
+                .font(.title)
+                .padding()
+            Button (action: {
+                print("Clicked")
+            }, label: {
+                Text("Click me")
+            })
             .padding()
-            .border(Color.black, width: 1)
-
-//          using fonts
-          Text("Hello")
-              .font(.title)
-
-//        font style for professional apps
-          Text("World")
-            .font(Font.custom("Helvetica", size: 24))
-
-//        multiline text alignment
-        Text("Hello, World! I'm having a great time at Codecademy!")
-            .multilineTextAlignment(.center)
-
-//    padding
-        Text("Checking alignment of text")
-            .padding(EdgeInsets(top: 3, leading: 5, bottom: 10, trailing: 20))
-
-//        padding on top only
-        Text("Checking alignment of text")
-            .padding(.top, 10)
-
-
+            .background(Color.blue)
+            .foregroundColor(.white)
+        }
         
+//        change the appearance of view using Colors
+        ZStack {
+            Color.blue
+            Text("I'm blue")
+                .font(.title)
+                .foregroundColor(Color.white)
+                
+        }
         
-        
-        
+//        spacer view
+        // use Vstack to push all the way to botttom
+        // use HStack to push in center right corner
+        HStack {
+            Spacer()
+            // use .frame to align
+                .frame(width: 100)
+            Text("I'm blue")
+                .font(.title)
+                .foregroundColor(Color.blue)
+                
+        }
+
     }
 }
 
