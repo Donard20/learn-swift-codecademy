@@ -13,3 +13,9 @@ for num in stride(from: 3, to: 0, by: -1) {
 print("GO!")
 
 
+Output:
+We're starting in...
+3
+2
+1
+GO!
