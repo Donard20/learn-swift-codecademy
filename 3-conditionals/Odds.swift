@@ -14,3 +14,11 @@ for num in 1...9 {
 print("Who do we appreciate?")
 print("YOU!")
 
+
+Output:
+2
+4
+6
+8
+Who do we appreciate?
+YOU!
