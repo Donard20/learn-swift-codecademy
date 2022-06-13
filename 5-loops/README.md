@@ -50,14 +50,11 @@
 ## 🔥 Learned:
 
 <!-- Here is a review of the lesson: -->
-
-<!-- - [x] An array is a list of ordered items.
-- [x] var evenNumbers = [2, 4, 6, 8, 10]
-- [x] The first index in an array is 0.
-- [x] The .count property that returns the size of an array.
-- [x] Some of the methods that come with arrays:
-- [x] .append(): adding an item to the end
-- [x] .insert(): adding an item to an index
-- [x] .remove(): removing an item from an index
-- [x] The for-in loop can be used to iterate through an array. -->
+- [x] Manually repeating tasks.
+- [x] for-in loops are used to iterate over collection items like ranges and strings.
+- [x] stride() creates a range that we can customize.
+- [x] _ usage when we don’t need to use the placeholder variable.
+- [x] continue allows us to move on to the next value.
+- [x] break stops the loop before the stopping condition is met.
+- [x] while loops are used when we don’t know how many times we’re looping.
 
