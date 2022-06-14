@@ -2,6 +2,7 @@
 var alphabet: [Character] = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 
 
+
 var secretMessage = "tanginamo"
 // make a array the variable
 var message = Array(secretMessage)
@@ -20,3 +21,11 @@ for i in 0 ..< message.count {
   }
 }
 }; print(message)
+
+// The encrypted message currently comes out of the encryption as an array. Is there a way to convert it to a String?
+
+let messageString = String(message)
+
+// Sometimes we might need to encrypt a text string that includes capital letters. Is there a way to make sure all the letters are lowercased before the encryption process starts?
+print(messageString.lowercased())
+
