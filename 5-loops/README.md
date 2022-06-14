@@ -24,26 +24,27 @@
 
  ## 🛠️ Lessons:
  
-<!-- - [x] [DNA.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/DNA.swift)
-- [x] [Forecast.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/Forecast.swift)
-- [x] [NewYearNewMe.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/NewYearNewMe.swift)
-- [x] [RetailTherapy.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/RetailTherapy.swift)
-- [x] [Rhyme.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/Rhyme.swift)
-- [x] [Tokyo-2.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/Tokyo-2.swift)
-- [x] [Tokyo.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/4-array/Tokyo.swift) -->
+- [x] [repeating.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/repeating.swift)
+- [x] [Underscore.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Underscore.swift)
+- [x] [StringLoop.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/StringLoop.swift)
+- [x] [Odds.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Odds.swift)
+- [x] [Guessing.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Guessing.swift)
+- [x] [Countdown.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Countdown.swift)
+- [x] [Break.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Break.swift)
+- [x] [Age.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Age.swift)
 
  
 ---
  
  ## 👨‍💻 Challenges and Exercises
  
-<!-- In this lesson, I will learn how to create and use an array, as well as some of its properties and methods.
+In this lesson, Write a CaesarCipher.swift program that encrypts a message by shifting each letter three places to the right.
  
   <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/3-conditionals/Magic_8_Ball_Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Caesars%20Cipher%20Challenge%20Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    
    <p align="center">
-     <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" width=40% height=40%> -->
+     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/caesar.png" width=40% height=40%>
 
  ---
  
