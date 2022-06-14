@@ -36,6 +36,7 @@
 - [x] Trio.swift
 - [x] Vacation.swift
 - [x] Vowels.swift
+- [x] Animals.swift
 
  
 ---
