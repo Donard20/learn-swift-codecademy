@@ -48,14 +48,17 @@ In our phones’ contact list, every entry is like a key-value pair. The name of
  
  ## 👨‍💻 Challenges and Exercises
  
-<!-- In this lesson, Write a CaesarCipher.swift program that encrypts a message by shifting each letter three places to the right.
+Morse Decoder
  
-  <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Caesars%20Cipher%20Challenge%20Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+Morse code, named after American artist Samuel Finley Breese Morse, is a method of telecommunication that visually encodes letters into unique combinations of dots . and dashes -:
+    <p align="center">
+     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/morse-code.gif" width=40% height=40%>
+     
+<!--   <p align="center">
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Caesars%20Cipher%20Challenge%20Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a> -->
    
-   <p align="center">
-     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/caesar.png" width=40% height=40%>
- -->
+
+
  ---
  
 ## 🔥 Learned:
