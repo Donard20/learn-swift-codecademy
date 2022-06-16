@@ -43,6 +43,11 @@ Your computer, for example, contains authentication processes whose logic is han
  
  ## 👨‍💻 Challenges and Exercises
  
+   <details>
+  <summary>
+  Fortune Teller
+  </summary>
+    
  In this project, I'll be using conditional skills by creating a program that can answer any “Yes” or “No” question with a different fortune each time.
  
   <p align="center">
@@ -51,6 +56,8 @@ Your computer, for example, contains authentication processes whose logic is han
    <p align="center">
      <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" width=40% height=40%>
 
+ </details>
+ 
  ---
  
 ## 🔥 Learned:
