@@ -45,6 +45,11 @@ Some collections might be small — like a short string, other collections might
  
  ## 👨‍💻 Challenges and Exercises
  
+<details>
+  <summary>
+  Caesar Cipher
+  </summary>
+    
 In this lesson, Write a CaesarCipher.swift program that encrypts a message by shifting each letter three places to the right.
  
   <p align="center">
@@ -52,12 +57,16 @@ In this lesson, Write a CaesarCipher.swift program that encrypts a message by sh
    
    <p align="center">
      <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/caesar.png" width=40% height=40%>
-
+  
+</details>
+ 
+ 
  ---
  
 ## 🔥 Learned:
 
 <!-- Here is a review of the lesson: -->
+ 
 - [x] Manually repeating tasks.
 - [x] for-in loops are used to iterate over collection items like ranges and strings.
 - [x] stride() creates a range that we can customize.
