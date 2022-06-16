@@ -13,9 +13,21 @@
 ---
  ## 🚀 Aim:
 
-Declare a Variable
-Suppose we are building a game, and we want to keep track of the player’s name, the player’s score that goes from 0 to 10, the player’s level, etc. 
-  We need some variables!
+The "Hello, world!" program simply writes to the screen. It does not read anything, calculate anything, or allow for user input. That’s no fun!
+
+Real programs tend to produce results based on some input that the user of the program gives, rather than just outputting the same thing every time.
+
+For our computer to produce something meaningful, we first need somewhere in the computer’s memory to store data. That is where variables come in.
+
+A variable is simply a name that represents a particular piece of your computer’s memory that has been set aside for you to store, retrieve, and use data.
+
+- In this lesson, we will learn about variables and constants, as well as some of the basic data types:
+  - Int: integer numbers
+  - Double: floating-point numbers
+  - String: a sequence of characters
+  - Bool: true/false values
+
+Every variable has a type, which represents the kind of information you can store inside of it. It tells your compiler how much memory to set aside for the variable, and it defines what you can do with the variable.
  
 ---
 
