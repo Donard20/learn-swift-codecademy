@@ -13,30 +13,34 @@
 
 ---
  ## 🚀 Aim:
-<!--  
- >  will learn how to create and use sets in Swift.A set is an unordered collection of unique elements.
-  
-- There are many similarities between sets and arrays, but the main differences between the two are:
-  - Set elements cannot be repeated, while that is allowed in arrays.
-  - A set does not have a defined order, while an array does.
-  - Sets are a great collection type to use when the data we need to store must be unique. -->
+ 
+Data often comes in pairs.
 
+On our phones’ contact list, every name is associated with a phone number. When we go shopping for an item, it is marked with a price. Searching up a word in a dictionary will get us the definition.
 
+In programming, paired data can be found in a dictionary.
+
+A dictionary is an unordered collection of paired data. The paired data is commonly referred to as a key-value pair in which a key is a unique identifier for their associated value.
+
+In our phones’ contact list, every entry is like a key-value pair. The name of the contact would be considered the key and their associated number would be the value.
+
+ >  In this lesson, I will learn how to create, manipulate, and use dictionaries in Swift.
+ 
 ---
 
 
  ## 🛠️ Lessons:
  
-<!-- - [x] Alphabet.swift
-- [x] Awards.swift
-- [x] Coffee.swift
-- [x] Emoji.swift
-- [x] Planets.swift
-- [x] Socks.swift
-- [x] Trio.swift
-- [x] Vacation.swift
-- [x] Vowels.swift
-- [x] Animals.swift -->
+- [x] Abbreviations.swift
+- [x] Color.swift
+- [x] Empty.swift
+- [x] Flowers.swift
+- [x] GreekMythology.swift
+- [x] Inspect.swift
+- [x] Lemonade.swift
+- [x] Movies.swift
+- [x] Names.swift
+- [x] TeaTemperature.swift
 
  
 ---
