@@ -14,15 +14,22 @@
 ---
  ## 🚀 Aim:
 
-- [x] Learning the basic concepts and fundamentals of Swift.
-- [x] Swift is a powerful and intuitive general-purpose programming language developed by Apple. Its development started in July 2010.
-- [x] create applications for:
-  -    📱 iOS
-  -    ⌚ watchOS
-  -    🖥️ macOS
-  -    📺 tvOS
-  -    🐧 Linux
- 
+Swift is a powerful and intuitive general-purpose programming language developed by Apple. Its development started in July 2010.
+
+Much of the inspiration for Swift came from languages like Objective-C, Rust, Haskell, Ruby, Python, C#, and many others. Swift’s concise yet expressive syntax and modern features make it the perfect first language for beginners and one experienced developers enjoy transitioning into.
+
+- Its first version was released in 2014 with the intent to create applications for:
+  - 📱 iOS
+  - ⌚ watchOS
+  - 🖥️ macOS
+  - 📺 tvOS
+  - 🐧 Linux
+
+ Since then, hundreds of companies including Uber and Slack have incorporated Swift into their tech stack.
+
+> In this lesson, we’ll start by learning the basic concepts and fundamentals of Swift.
+
+Happy coding!
 ---
  ## 🛠️ Lessons:
 
