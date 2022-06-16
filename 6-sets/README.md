@@ -13,13 +13,22 @@
 
 ---
  ## 🚀 Aim:
+ Imagine walking through an art museum and finding two identical Mona Lisa paintings hanging on the wall. That situation would most likely cause a few raised eyebrows. Art museums should only contain unique content, like a set does in Swift.
  
- >  will learn how to create and use sets in Swift.A set is an unordered collection of unique elements.
-  
-- There are many similarities between sets and arrays, but the main differences between the two are:
+ - There are many similarities between sets and arrays, but the main differences between the two are:
   - Set elements cannot be repeated, while that is allowed in arrays.
   - A set does not have a defined order, while an array does.
   - Sets are a great collection type to use when the data we need to store must be unique.
+ 
+Sets are a great collection type to use when the data we need to store must be unique.
+
+For example, we could use a set in real life to store information about employee ID numbers at a company or to store bank account numbers.
+
+
+A set is an unordered collection of unique elements.
+ 
+ >  will learn how to create and use sets in Swift.A set is an unordered collection of unique elements.
+  
 
 
 ---
