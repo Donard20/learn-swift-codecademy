@@ -13,10 +13,15 @@
 
 ---
  ## 🚀 Aim:
-Conditionals are powerful programming tools that introduce flexibility and complex behavior to a program by allowing it to react to change. 
- Their power comes from being the root of all decision making within an application.
+On a daily basis, we’re faced with making decisions based on certain conditions; if the weather is beautiful, we’ll go for a walk, or if it’s rainy, we’ll stay in and code!
 
-  In this section, Im going to set up the rules and conditions for programs to follow using Swift’s conditional statements and operators.
+In Swift, the ability to determine an outcome based on a given condition also exists. It’s known as a conditional.
+
+Conditionals are powerful programming tools that introduce flexibility and complex behavior to a program by allowing it to react to change. Their power comes from being the root of all decision making within an application.
+
+Your computer, for example, contains authentication processes whose logic is handled by conditionals. If you are logged out, access to certain pages on your device may be restricted, or if your are logged in, access will be granted.
+
+> In this lesson, we’ll set up our own rules and conditions for programs to follow using Swift’s conditional statements and operators.
  
 ---
 

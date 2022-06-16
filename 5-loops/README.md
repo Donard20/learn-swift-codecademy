@@ -14,9 +14,16 @@
 ---
  ## 🚀 Aim:
  
- > In programming, this entire process with a starting condition, repetition, and ending condition is called a loop. 
-  In a loop, we iterate (perform repeating tasks) using a collection of items. 
-  In this lesson, we’ll learn about Swift’s different types of loops and how to use them in our programs.
+Every day, we repeat a lot of things and we might not even think about it. For instance, when we cook, we might have to prepare our ingredients by chopping them up. We chop and chop and chop until all of our ingredients are the right sizes. At this point, we stop chopping. We can break down our chopping task into three smaller parts:
+
+Start condition: We’re ready to cook.
+Repetition: We’re chopping away.
+End condition: We have no more ingredients to chop.
+In programming, this entire process with a starting condition, repetition, and ending condition is called a loop. In a loop, we iterate (perform repeating tasks) using a collection of items. In the example above, our collection would be our ingredients and the iteration happens when we’re chopping up our ingredients.
+
+Some collections might be small — like a short string, other collections might be massive like a range of numbers from 1 to 10000000! But worry not, loops give us the ability to masterfully handle both ends of the spectrum. This simple, but powerful, concept saves us a lot of time and makes it easier for us to work with large amounts of data.
+
+> In this lesson, we’ll learn about Swift’s different types of loops and how to use them in our programs.
 
 
 ---
