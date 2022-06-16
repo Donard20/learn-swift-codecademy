@@ -3,7 +3,7 @@ var alphabet: [Character] = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "
 
 
 
-var secretMessage = "tanginamo"
+var secretMessage = "donard"
 // make a array the variable
 var message = Array(secretMessage)
 
