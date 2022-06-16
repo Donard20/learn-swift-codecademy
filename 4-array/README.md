@@ -14,7 +14,18 @@
 ---
  ## 🚀 Aim:
  
- > An array stores an ordered collection of values.
+We live in an increasingly connected world where information flows between us and the apps that we interact with every day. Historically that information was stored in filing cabinets but, today, most of it is stored on computers.
+
+When we write programs that capture data about our surroundings, the need for storing collections of data will arise. For example, we might need to store:
+
+A list of player scores in a mobile game
+A list of order prices in a food delivery app
+A list of hashtags on a social platform
+We are familiar with storing an individual piece of data using an Int, Double, or String variable, but how do we store a group of Ints, Doubles, or Strings? Well, that’s where arrays come into play.
+
+An array stores an ordered collection of values.
+
+> In this lesson, we will learn how to create and use an array, as well as some of its properties and methods.
 
 
 ---
