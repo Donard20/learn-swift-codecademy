@@ -4,7 +4,7 @@ var alphabet: [Character] = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "
 
 
 var secretMessage = "donard"
-// make a array the variable
+// make the variable as array of strings
 var message = Array(secretMessage)
 
 print(message)
