@@ -46,9 +46,16 @@ Every variable has a type, which represents the kind of information you can stor
  
  ## 👨‍💻 Challenges and Exercises
  
+  <details>
+  <summary>
+  Challenges and Exercises
+  </summary>
+   
  - [x] [Challenge_Temperature.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Challenge_Temperature.swift)
  - [x] [Exercise_BMI.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Exercise_BMI.swift)
  - [x] [Exercise_Quadratic Formula.swift](https://github.com/Donard20/learn-swift-codecademy/blob/main/2-variables/Exercise_Quadratic%20Formula.swift)
+   
+ </details>
  
  ---
  
