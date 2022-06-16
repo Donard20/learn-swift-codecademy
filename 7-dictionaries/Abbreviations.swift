@@ -18,6 +18,7 @@ print(abbreviations)
 Output:
 ["GJOYC": "Great Job On Your Code", "LOL": "Laugh Out Loud", "LMK": "Let Me Know", "BRB": "Bringing Radishes Back"]
 
+// dictionaryName.updateValue(NewValue, forKey: Key)
 abbreviations.updateValue("Be Right Back", forKey: "BRB")
 
 print(abbreviations)
