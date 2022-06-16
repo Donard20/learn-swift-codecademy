@@ -48,6 +48,11 @@ In our phones’ contact list, every entry is like a key-value pair. The name of
  
  ## 👨‍💻 Challenges and Exercises
  
+ <details>
+  <summary>
+  Caesar Cipher
+  </summary>
+  
 Morse Decoder
  
 Morse code, named after American artist Samuel Finley Breese Morse, is a method of telecommunication that visually encodes letters into unique combinations of dots . and dashes -:
@@ -57,7 +62,7 @@ Morse code, named after American artist Samuel Finley Breese Morse, is a method 
 <!--   <p align="center">
    <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Caesars%20Cipher%20Challenge%20Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a> -->
    
-
+ </details>
 
  ---
  
