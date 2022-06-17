@@ -50,10 +50,9 @@ In our phones’ contact list, every entry is like a key-value pair. The name of
  
  <details>
   <summary>
-  Caesar Cipher
+  Morse Decoder
   </summary>
   
-Morse Decoder
  
 Morse code, named after American artist Samuel Finley Breese Morse, is a method of telecommunication that visually encodes letters into unique combinations of dots . and dashes -:
     <p align="center">
