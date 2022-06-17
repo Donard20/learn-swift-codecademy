@@ -58,8 +58,11 @@ Morse code, named after American artist Samuel Finley Breese Morse, is a method 
     <p align="center">
      <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/morse-code.gif" width=40% height=40%>
      
-<!--   <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/5-loops/Caesars%20Cipher%20Challenge%20Exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a> -->
+  <p align="center">
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/7-dictionaries/Morse%20Challenge%20exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   
+   
+ > I learned a lot in this challenge especially in creating array and dictionaries also iterating through variables. It's still new to me some of the codes and quite challenging to think of the way to show the encrypted messages. Thankfully theres a guided instruction on how to do it but sometimes I take a look at hints whenever I feel somethings missing in my code. Its quite confusing in the part of 'currMorse' I didn't fully understand about it but I'll try to look for explanations on the internet. i hope to learn more in loops, dictionaries also the logic of the program, if there's no step by step I don't know if I'm doing correctly.
    
  </details>
 
