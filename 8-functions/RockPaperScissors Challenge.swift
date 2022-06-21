@@ -26,6 +26,7 @@ func getUSerChoice(userInput: String) -> String {
 
 func getComputerChoice() -> String {
     let randomNumber = Int.random(in: 0...2)
+
     switch randomNumber {
         case 0:
             return "rock"
@@ -43,28 +44,32 @@ func getComputerChoice() -> String {
 // Determine Winner
 
 func determineWinner(_ userChoice: String, _ compChoice: String) -> String {
-    var decision: String = "It's a tie"
+
+    var decision = "It's a tie"
+
     switch userChoice {
-    case "rock":
+      case "rock":
         if compChoice == "paper" {
             decision = "The computer won"
         } else if compChoice == "scissors" {
             decision = "The user won"
         }
-    case "paper":
+      case "paper":
         if compChoice == "rock" {
             decision = "The user won"
         } else if compChoice == "scissors" {
             decision = "The computer won"
         }
-    case "scissors":
+      case "scissors":
         if compChoice == "rock" {
             decision = "The computer won"
         } else if compChoice == "paper" {
             decision = "The user won"
         }
-        
+      default: 
+        print("Something went wrong")
     }
+    return decision
 }
 
 // Display Result
@@ -74,6 +79,7 @@ let compChoice = getComputerChoice()
 
 print("You threw \(userChoice)")
 print("The computer threw \(compChoice)")
+print(determineWinner(userChoice, compChoice))
 
 
 
