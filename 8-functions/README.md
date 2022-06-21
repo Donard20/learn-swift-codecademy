@@ -26,18 +26,19 @@ In this lesson, we’ll explore more scenarios in which functions are useful and
 
 
  ## 🛠️ Lessons:
-<!--  
-- [x] Abbreviations.swift
-- [x] Color.swift
-- [x] Empty.swift
-- [x] Flowers.swift
-- [x] GreekMythology.swift
-- [x] Inspect.swift
-- [x] Lemonade.swift
-- [x] Movies.swift
-- [x] Names.swift
-- [x] TeaTemperature.swift
-- [x] tuples.swift -->
+ 
+- [x] ArgumentLabels.swift
+- [x] BMI.swift
+- [x] Circumference.swift
+- [x] Cuisine.swift
+- [x] Destination.swift
+- [x] Directions.swift
+- [x] Generator.swift
+- [x] Museum.swift
+- [x] Recipe.swift
+- [x] Remainder.swift
+- [x] Ticket.swift 
+- [x] main.swift
 
  
 ---
