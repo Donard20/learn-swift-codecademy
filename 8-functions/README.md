@@ -44,7 +44,7 @@ In this lesson, we’ll explore more scenarios in which functions are useful and
  
  ## 👨‍💻 Challenges and Exercises
  
- <details>
+<!--  <details>
   <summary>
   Morse Decoder
   </summary>
@@ -60,7 +60,7 @@ Morse code, named after American artist Samuel Finley Breese Morse, is a method 
    
  > I learned a lot in this challenge especially in creating array and dictionaries also iterating through variables. It's still new to me some of the codes and quite challenging to think of the way to show the encrypted messages. Thankfully theres a guided instruction on how to do it but sometimes I take a look at hints whenever I feel somethings missing in my code. Its quite confusing in the part of 'currMorse' I didn't fully understand about it but I'll try to look for explanations on the internet. i hope to learn more in loops, dictionaries also the logic of the program, if there's no step by step I don't know if I'm doing correctly.
    
- </details>
+ </details> -->
 
  ---
  
