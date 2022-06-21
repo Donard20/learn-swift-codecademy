@@ -45,23 +45,23 @@ In this lesson, we’ll explore more scenarios in which functions are useful and
  
  ## 👨‍💻 Challenges and Exercises
  
-<!--  <details>
+ <details>
   <summary>
-  Morse Decoder
+  Rock, paper, scissors
   </summary>
   
  
-Morse code, named after American artist Samuel Finley Breese Morse, is a method of telecommunication that visually encodes letters into unique combinations of dots . and dashes -:
+Rock, paper, scissors is a classic two player hand game dating back to ancient China.
     <p align="center">
-     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/morse-code.gif" width=40% height=40%>
+     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/Swift_RockPaperScissors_Animation.gif" width=60% height=60%>
      
   <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/7-dictionaries/Morse%20Challenge%20exercise.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/8-functions/RockPaperScissors%20Challenge.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    
    
- > I learned a lot in this challenge especially in creating array and dictionaries also iterating through variables. It's still new to me some of the codes and quite challenging to think of the way to show the encrypted messages. Thankfully theres a guided instruction on how to do it but sometimes I take a look at hints whenever I feel somethings missing in my code. Its quite confusing in the part of 'currMorse' I didn't fully understand about it but I'll try to look for explanations on the internet. i hope to learn more in loops, dictionaries also the logic of the program, if there's no step by step I don't know if I'm doing correctly.
+ > This project taught me how to develop a program by combining a variety of functions into a single basic program. You must first divide the program's logic, and then attach it to a function that will compare the user and computer selections to determine who will win.
    
- </details> -->
+ </details>
 
  ---
  
