@@ -81,6 +81,13 @@ print("You threw \(userChoice)")
 print("The computer threw \(compChoice)")
 print(determineWinner(userChoice, compChoice))
 
+Sample Output:
+
+Output:
+You threw paper
+The computer threw scissors
+The computer won
+
 
 
 
