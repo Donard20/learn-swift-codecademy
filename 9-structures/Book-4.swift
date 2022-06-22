@@ -15,4 +15,8 @@ print(myFavBook.pages) // Prints: 0
 
 myFavBook.pages = 640
 
-print(myFavBook.pages)
+print(myFavBook.pages) // Prints: 640
+
+myFavBook.title = "Tokyo Zodiac Murder"
+
+print(myFavBook.title) // Prints: Tokyo Zodiac Murder
