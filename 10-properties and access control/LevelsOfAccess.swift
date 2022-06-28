@@ -2,7 +2,7 @@
 -public
 -internal
 -fileprivate
-- private
+-private
 -open 
 
 
@@ -32,3 +32,10 @@ print(scrambles.age)
 
 // This is invalid because type is inaccessible outside of the Cat structure
 // print(scrambles.type)
+
+
+
+Output:
+Meeeeoooowww
+Black
+2
