@@ -23,7 +23,7 @@ struct SwiftBank {
 
     // Create a private helper method
     private func isValid(_ enteredPassword: String) -> Bool {
-        if password = enteredPassword {
+        if password == enteredPassword {
             return true
         } else {
             return false
@@ -35,7 +35,7 @@ struct SwiftBank {
         // create property observer to check the balance of account
         didSet {
             if balance < 100 {
-                return displayLowBalanceMessage
+                displayLowBalanceMessage()
             }
         }
     }
@@ -44,7 +44,7 @@ struct SwiftBank {
     static let depositBonusRate = 0.01
 
     // calculate the total deposit with bonus
-    private func finalDepositWithBonus(fromInitialDeposit: Double) -> Double {
+    private func finalDepositWithBonus(fromInitialDeposit deposit: Double) -> Double {
         return deposit + (deposit * SwiftBank.depositBonusRate)
     }
 
@@ -86,6 +86,26 @@ struct SwiftBank {
     
     // instances
 
-    var myAccount = SwiftBank(initialDeposit: 500, password: "yowyowyow")
-    myAccount.makeDeposit(ofAmount: 50)
-    myAccount.makeWithdrawal(ofAmount: 100, usingPassword: "hala")
+var myAccount = SwiftBank( password: "yowyowyow", initialDeposit: 500)
+    
+/*Output:
+ Making a deposit of $500.0 with a bonus rate. 
+ The final amount deposited is $505.0.*/
+
+myAccount.makeDeposit(ofAmount: 50)
+
+/*Making a deposit of $50.0 with a bonus rate. The final amount deposited is $50.5.*/
+
+myAccount.makeWithdrawal(ofAmount: 100, usingPassword: "hala") //not correct password
+
+/*Error: Invalid password. Cannot make withdrawal.*/
+
+myAccount.makeWithdrawal(ofAmount: 100, usingPassword: "yowyowyow")
+
+/*Making a $100.0 withdrawal*/
+
+myAccount.displayBalance(usingPassword: "yowyowyow")
+
+/*Your current balance is $455.5*/
+
+
