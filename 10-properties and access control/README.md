@@ -62,24 +62,29 @@ To help us understand the purpose and mechanics of access control, let’s think
  
  ## 👨‍💻 Challenges and Exercises
  
-<!--  <details>
+<details>
   <summary>
-  Exercise Plan
+  Swift Bank
   </summary>
   
  
-Rock, paper, scissors is a classic two player hand game dating back to ancient China.
-    <p align="center">
-     <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/gym.gif" width=60% height=60%>
+We’ll use properties and access control to build a structure that represents a secure personal bank account. We will be able to initialize the account with a password and initial deposit, make deposits, make withdrawals, and check the balance.
+
+For our bank to remain competitive and earn lots of new customers, we will offer a cash bonus every time a user makes a deposit. Additionally, we’ll configure a property observer to let us know whenever our bank balance is set so that we can display alerts.
+
+We’ll apply the concept of structures, private methods, property observers, and type properties.
+
+  <p align="center">
+  <img src="https://cdn.dribbble.com/users/2469324/screenshots/15676749/dribbble.gif" width=40% height=40%>
      
   <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/9-structures/Structured%20Gym%20Regimen%20Exercises.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/10-properties%20and%20access%20control/SwiftBank%20R.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    
    
- > This project taught me how to develop a program with real world data types. The interesting part in here is the structures, init method, instances method and instances for structure that somehow similar and I easily adjusted in coding because I'm a little bit familiar in classes in Python.
- > It's still confusing the last part of coding where I need to call the structures and instances but i will study it more to understand it deeper.
+ > This project taught me how to develop a program using different porty controls and access controls. How to secure source code using private properties and methods to prevent it for modifying to the readers. I learned more how modules, properties, methods and instances communicate to one another using structure.
+
  </details>
- -->
+ 
   
  ---
  
