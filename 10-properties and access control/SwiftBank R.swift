@@ -37,6 +37,15 @@ struct SwiftBank {
                 let depositWithBonus = finalDepositWithBonus(fromInitialDeposit:depositAmount)
                 print("Thank you for depositing at Swift Bank. First time user with making a deposit of $\(depositAmount) with a bonus rate. The final amount deposited is $\(depositWithBonus). ")
                 balance += depositWithBonus
+
+                // Deposit a negative amount
+            } else if depositAmount < 0 {
+                print("You deposit a negative amount. Please deposit more than $1")    
+             
+              // Deposit a zero amount
+            } else if depositAmount == 0 {
+                print("You deposit a $0 amount. Please deposit more than $1")
+                      
             } else {
                 balance += depositAmount
                 print("Thank you for depositing at Swift Bank. You're deposit amount is $\(balance)")
@@ -53,8 +62,21 @@ struct SwiftBank {
         if !isValid(password) {
             print("Error: Invalid password. Cannot make withdrawal.")
             return
+
+            // Withdraw a negative amount
+        } else if withdrawalAmount < 0 {
+            print("You withdraw a negative amount. Please withdraw more than $1") 
+        
+            // Withdraw a zero amount
+        } else if withdrawalAmount == 0 {
+            print("You withdraw a $0 amount. Please withdraw more than $1")
+        
+            // Withdraw more cash than they have in the bank
+        } else if withdrawalAmount > balance {
+            print("You have $\(balance) amount on your account.\nYou can not withdraw $\(withdrawalAmount) more than your current balance. ")
+        
+        // withdrawalAmount -= balance 
         } else {
-            // withdrawalAmount -= balance 
             balance -= withdrawalAmount
             print("Making a $\(withdrawalAmount) withdrawal")
         }    
