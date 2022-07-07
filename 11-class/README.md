@@ -26,6 +26,8 @@ Suppose a company called Hooli gives out ID badges to its employees. Somewhere d
 
 So instead of creating the new badge template from scratch, we would use the employee badge template to create the manager badge template — that’s inheritance! Because managers are still employees, but also have their own special security clearance.
 
+# ONGOING STUDY
+
   
 ---
 
