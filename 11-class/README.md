@@ -46,15 +46,18 @@ So instead of creating the new badge template from scratch, we would use the emp
  
 <details>
   <summary>
-  Swift Bank
+  Pokédex
   </summary>
   
  
-We’ll use properties and access control to build a structure that represents a secure personal bank account. We will be able to initialize the account with a password and initial deposit, make deposits, make withdrawals, and check the balance.
+Pokémon is an international phenomenon that has taken the world by storm. Somewhere in a remote village called Pallet Town, there is a Pokémon Professor who is quietly studying these creatures.
 
-For our bank to remain competitive and earn lots of new customers, we will offer a cash bonus every time a user makes a deposit. Additionally, we’ll configure a property observer to let us know whenever our bank balance is set so that we can display alerts.
+We will let him introduce himself:
 
-We’ll apply the concept of structures, private methods, property observers, and type properties.
+ > Hello, there! Welcome to the world of Pokémon. My name is Oak. People call me the Pokémon Professor.
+ > This world is inhabited by creatures called Pokémon. For some people, Pokémon are pets. Others use them to fight. As for myself… I study pokémon as a profession.
+
+There are over 896 Pokémons now in the wild, each with different characteristics such as name, types, weaknesses, and more. Help Professor Oak study them by categorizing them each into an electronic device — a Pokédex!
 
   <p align="center">
   <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/11.gif" width=40% height=40%>
