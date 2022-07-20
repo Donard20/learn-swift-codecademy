@@ -2,7 +2,7 @@
 
 # 📜 Introducing Enumerations [iOS Training using Swift, SwiftUI and Xcode 13]
 <p align="center">
-<img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/12-enums/Enumerations.gif" width=60% height=60%>
+<img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/12-enums/Enumerations.gif" width=80% height=80%>
 
 ## 📖 Table Of Contents
 * 🚀 [Aim for this lesson](#solutions)
