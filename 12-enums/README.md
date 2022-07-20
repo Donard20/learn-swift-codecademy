@@ -43,44 +43,42 @@ An enumeration, often shortened to enum (pronounced ee-num), is a way to define 
 
  ## 🛠️ Lessons:
  
-<!-- - [x] Restaurant.swift
-- [x] Restaurant-2.swift
-- [x] Restaurant-3.swift
-- [x] Order.swift
-- [x] Order-2.swift
-- [x] Order-3.swift
-- [x] Pokedex.swift -->
+- [x] EnumAssociatedValues.swift
+- [x] EnumComputedProperties.swift
+- [x] EnumIteration.swift
+- [x] EnumMethods.swift
+- [x] EnumRawValue.swift
+- [x] EnumSwitch.swift
+- [x] WhatsAnEnumeration.swift
 
  
 ---
  
  ## 👨‍💻 Challenges and Exercises
  
-<!-- <details>
+<details>
   <summary>
-  Pokédex
+  Numero Uno Software
   </summary>
   
- 
-Pokémon is an international phenomenon that has taken the world by storm. Somewhere in a remote village called Pallet Town, there is a Pokémon Professor who is quietly studying these creatures.
-
-We will let him introduce himself:
-
- > Hello, there! Welcome to the world of Pokémon. My name is Oak. People call me the Pokémon Professor.
- > This world is inhabited by creatures called Pokémon. For some people, Pokémon are pets. Others use them to fight. As for myself… I study pokémon as a profession.
-
-There are over 896 Pokémons now in the wild, each with different characteristics such as name, types, weaknesses, and more. Help Professor Oak study them by categorizing them each into an electronic device — a Pokédex!
-
   <p align="center">
-  <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/11.gif" width=40% height=40%>
+  <img src="https://github.com/Donard20/learn-swift-codecademy/blob/main/IMG/app-online-store.gif" width=80% height=80%>
+
+Numero Uno Software Store
+
+I will be creating three enumerations.
+The first enumeration will represent the products a user can purchase and will store raw values that represent the display name of the software.
+The second enumeration will represent the edition of the software and will contain a mutating method.
+The final enumeration will represent the delivery methods available to the customer and will have associated values and a computed property.
+I'll also be creating a few functions to complete the functionality of the store. One will iterate through the enumeration containing the various products a user can purchase. The other will send an order confirmation to the user based on the details of their order.
      
   <p align="center">
-   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/11-class/Pokedex.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/learn-swift-codecademy/blob/main/12-enums/NumeroUno.swift" target="_blank"><img src="https://img.shields.io/badge/Magic 8 Ball-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    
    
- > This project taught me about class. subclassing the different pokemon in Pokedex. learn the overriding of init and methods. the difference between struct and class where struct is a value type, for sample if company needs your license, you will make a copy of it instead of giving them your original ID.  while class is a reference type 
+ > This project taught me to create different uses of enumeration especially when dealing with different kind of products and how we will able to reach out customers using different enums. Im basically searching for what differentiate struct, classes and enum because I find enum more organize to create object oriented program. Enumerations are indeed first class citizens in Swift and can help  write clean, expressive code 🛩
 
- </details> -->
+ </details>
 
   
  ---
@@ -99,4 +97,20 @@ There are over 896 Pokémons now in the wild, each with different characteristic
 - [x] Classes are reference types, any copied class that has its properties altered will affect the original class from which it was copied.
     🙌❗
  -->
+ 
+- [x] What an enumeration is
+- [x] How to use enumerations in a switch control flow
+- [x] How to iterate over enumerations cases like a collection
+- [x] Defining raw values in an enumeration
+  - [x] Explicitly and implicitly assigning raw values
+  - [x] Extracting raw values for cases
+  - [x] Initializing an instance with a raw value
+  - [x] All cases must have the same type of raw value
+- [x] Defining associated values in an enumeration
+  - [x] Associated values can be differently typed for each case
+  - [x] All cases don’t need associated value
+- [x] Implementing methods in enumerations
+  - [x] Use of mutating methods
+- [x] Defining computed properties in enumerations
+
 
